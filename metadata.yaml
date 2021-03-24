@@ -1,0 +1,29 @@
+_repo: The-Ways-of-War_64633
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kettle, Mary Sheehy
+    gutenberg_agent_id: '53012'
+    url: http://www.gutenberg.org/2009/agents/53012
+  - agent_name: Kettle, Tom
+    aliases:
+    - Kettle, T. M. (Thomas Michael)
+    - Kettle, Thomas Michael
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '5975'
+    url: http://www.gutenberg.org/2009/agents/5975
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
+description: ''
+gutenberg_issued: '2021-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Ways of War
+url: http://www.gutenberg.org/ebooks/64633
